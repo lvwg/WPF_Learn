@@ -1,0 +1,14 @@
+D:\Learning_Material\Code\C#\WPF\FirstWPF\MyFistWPF\MyFistWPF\bin\Debug\MyFistWPF.exe.config
+D:\Learning_Material\Code\C#\WPF\FirstWPF\MyFistWPF\MyFistWPF\bin\Debug\MyFistWPF.exe
+D:\Learning_Material\Code\C#\WPF\FirstWPF\MyFistWPF\MyFistWPF\bin\Debug\MyFistWPF.pdb
+D:\Learning_Material\Code\C#\WPF\FirstWPF\MyFistWPF\MyFistWPF\obj\Debug\MyFistWPF.csprojResolveAssemblyReference.cache
+D:\Learning_Material\Code\C#\WPF\FirstWPF\MyFistWPF\MyFistWPF\obj\Debug\MainWindow.g.cs
+D:\Learning_Material\Code\C#\WPF\FirstWPF\MyFistWPF\MyFistWPF\obj\Debug\App.g.cs
+D:\Learning_Material\Code\C#\WPF\FirstWPF\MyFistWPF\MyFistWPF\obj\Debug\MyFistWPF_MarkupCompile.cache
+D:\Learning_Material\Code\C#\WPF\FirstWPF\MyFistWPF\MyFistWPF\obj\Debug\MyFistWPF_MarkupCompile.lref
+D:\Learning_Material\Code\C#\WPF\FirstWPF\MyFistWPF\MyFistWPF\obj\Debug\MainWindow.baml
+D:\Learning_Material\Code\C#\WPF\FirstWPF\MyFistWPF\MyFistWPF\obj\Debug\MyFistWPF.g.resources
+D:\Learning_Material\Code\C#\WPF\FirstWPF\MyFistWPF\MyFistWPF\obj\Debug\MyFistWPF.Properties.Resources.resources
+D:\Learning_Material\Code\C#\WPF\FirstWPF\MyFistWPF\MyFistWPF\obj\Debug\MyFistWPF.csproj.GenerateResource.Cache
+D:\Learning_Material\Code\C#\WPF\FirstWPF\MyFistWPF\MyFistWPF\obj\Debug\MyFistWPF.exe
+D:\Learning_Material\Code\C#\WPF\FirstWPF\MyFistWPF\MyFistWPF\obj\Debug\MyFistWPF.pdb
